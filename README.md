@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-raffidevyt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raffidevyt@gmail.com)](mailto:raffidevyt@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-RaffiDev-grey?style=flat&logo=github&logoColor=white&link=https://github.com/RaffiDevYT/)](https://www.github.com/raffidevyt/)
 
-<p align='left'>I am a newbie is interested in technology especially programming</p>
+<p align='left'>I am a junior is interested in technology especially programming</p>
 
 <h2>My Github Stats</h2>
 
