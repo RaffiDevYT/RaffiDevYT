@@ -21,7 +21,7 @@
 
 <p>
     <a href="https://github.com/RaffiDevYT">
-        <img src="https://github-profile-trophy.vercel.app/?username=Rizsyad&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="RaffiDevYT :: Tropy Stats" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Rizsyad&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Rizsyad :: Tropy Stats" />
     </a>
 </p>
 
