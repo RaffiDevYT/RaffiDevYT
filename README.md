@@ -1,3 +1,4 @@
+[![MasterHead](https://dittmptrr27.com/banner.png)](https://raffidev.com)
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm RaffiDevYT
 ![Windows Badge](https://img.shields.io/badge/windows-linux-blue?&logo=windows)
 [![Gmail Badge](https://img.shields.io/badge/-raffidevyt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raffidevyt@gmail.com)](mailto:raffidevyt@gmail.com) 
