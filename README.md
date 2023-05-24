@@ -33,14 +33,13 @@
 </p>
 
 <p>
-    <a href="https://github.com/RaffiDevYT"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizsyad&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="RaffiDevYT :: Top Langs" /></a>
+    <a href="https://github.com/RaffiDevYT"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffiDevYT&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="RaffiDevYT :: Top Langs" /></a>
     <a href="https://github.com/RaffiDevYT"><img src="https://github-readme-stats.vercel.app/api?username=RaffiDevYT&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="RaffiDevYT :: Profile Stats" /></a>
 </p>
 
 <p>
     <a href="https://github.com/RaffiDevYT">
-        <img src="https://github-profile-trophy.vercel.app/?username=Rizsyad&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Rizsyad :: Tropy Stats" />
-        <img src="https://github-contribution-stats.vercel.app/api/?username=rafi.athallah&theme=onedark" width="34%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=RaffiDevYT&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="RaffiDevYT :: Tropy Stats" />
     </a>
 </p>
 
