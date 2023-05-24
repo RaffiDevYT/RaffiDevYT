@@ -40,7 +40,7 @@
 <p>
     <a href="https://github.com/RaffiDevYT">
         <img src="https://github-profile-trophy.vercel.app/?username=Rizsyad&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Rizsyad :: Tropy Stats" />
-        <img src="https://github-contribution-stats.vercel.app/api/?username=RaffiDevYT&theme=onedark" width="34%" />
+        <img src="https://github-contribution-stats.vercel.app/api/?username=raffidevyt&theme=onedark" width="34%" />
     </a>
 </p>
 
