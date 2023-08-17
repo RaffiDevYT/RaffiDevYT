@@ -1,5 +1,5 @@
 [![MasterHead](https://dittmptrr27.com/banner.png)](https://raffidev.com)
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm rafi.athallah
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Raffi Athallah.1602
 [![Gmail Badge](https://img.shields.io/badge/-raffidevyt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raffidevyt@gmail.com)](mailto:raffidevyt@gmail.com) 
 
 <p align='left'>I am a junior is interested in technology especially programming</p>
