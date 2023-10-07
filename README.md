@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Raffi Athallah.1602</h1>
+<h1 align="center">Hey, I'm Raffi Athallah.1602</h1>
 <h3 align="center">Front End Developer, Discord Bot Developer, Minecraft Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1142049104357249154/1157454791245561887/image-removebg-preview_1.png?ex=6518ab46&is=651759c6&hm=297fa1c0030966304f257723be3a63ed5bcf907be3561151e88bf3a3513884c6&=&width=634&height=476">
 
