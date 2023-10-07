@@ -1,9 +1,20 @@
-[![MasterHead](https://dittmptrr27.com/banner.png)](https://raffidev.com)
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Raffi Athallah.1602
-[![Gmail Badge](https://img.shields.io/badge/-raffidevyt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raffidevyt@gmail.com)](mailto:raffidevyt@gmail.com) 
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Raffi Athallah.1602</h1>
+<h3 align="center">Front End Developer, Discord Bot Developer, Minecraft Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1142049104357249154/1157454791245561887/image-removebg-preview_1.png?ex=6518ab46&is=651759c6&hm=297fa1c0030966304f257723be3a63ed5bcf907be3561151e88bf3a3513884c6&=&width=634&height=476">
 
-<p align='left'>I am a junior is interested in technology especially programming</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RaffiDevYT&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
+[![Gmail Badge](https://img.shields.io/badge/-raffidevyt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raffidevyt@gmail.com)](mailto:me@raffidev.site)
+
+- 🔭 I’m currently working on [parama.cloud](https://parama.cloud/)
+
+- 🌱 I’m currently learning **PHP, Laravel, React**
+
+- 👨‍💻 All of my projects are available at [https://raffidev.com](https://raffidev.com) / [https://raffidev.site](https://raffidev.site)
+
+- 💬 Ask me about **Discord.JS**
+
+- 📫 How to reach me **me@raffidev.site**
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tools and use
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Linux-797979?style=for-the-badge&logo=Linux&logoColor=blue)
