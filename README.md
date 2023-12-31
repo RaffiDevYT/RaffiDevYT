@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Raffi Athallah.1602</h1>
 <h3 align="center">Front End Developer, Discord Bot Developer, Minecraft Developer</h3>
-<p align="right"><a href="https://discord.com/users/467586538109272074" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/467586538109272074" alt="RaffiDev" /></a></p>
+<p align="right"><a href="https://discord.com/users/467586538109272074" target="_blank" rel="noreferrer"><img align="right" src="https://lanyard.cnrad.dev/api/467586538109272074" alt="RaffiDev" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaffiDevYT&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
