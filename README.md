@@ -15,6 +15,10 @@
 - 💬 Ask me about **Discord.JS**
 
 - 📫 How to reach me **me@raffidev.site**
+
+
+<p align="left"><a href="https://discord.com/users/467586538109272074" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/467586538109272074" alt="RaffiDev" /></a></p>
+
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tools and use
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Linux-797979?style=for-the-badge&logo=Linux&logoColor=blue)
@@ -31,8 +35,6 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-<p align="left"><a href="https://discord.com/users/467586538109272074" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/467586538109272074" alt="RaffiDev" /></a></p>
 
 <h2>My Github Stats</h2>
 
