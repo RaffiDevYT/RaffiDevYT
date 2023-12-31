@@ -2,7 +2,7 @@
 <h3 align="center">Front End Developer, Discord Bot Developer, Minecraft Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1142049104357249154/1157454791245561887/image-removebg-preview_1.png?ex=6518ab46&is=651759c6&hm=297fa1c0030966304f257723be3a63ed5bcf907be3561151e88bf3a3513884c6&=&width=634&height=476">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RaffiDevYT&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p align="center"><a href="https://discord.com/users/467586538109272074" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/467586538109272074" alt="RaffiDev" /></a></p>
 
 [![Gmail Badge](https://img.shields.io/badge/-raffidevyt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raffidevyt@gmail.com)](mailto:me@raffidev.site)
 
@@ -31,8 +31,6 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-<p align="center"><a href="https://discord.com/users/467586538109272074" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/467586538109272074" alt="RaffiDev" /></a></p>
 
 <h2>My Github Stats</h2>
 
