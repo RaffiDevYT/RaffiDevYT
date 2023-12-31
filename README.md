@@ -32,6 +32,8 @@
 ![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+<p align="center"><a href="https://discord.com/users/467586538109272074" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/467586538109272074" alt="RaffiDev" /></a></p>
+
 <h2>My Github Stats</h2>
 
 <h4>Visitor Count :eyes:</h4>
