@@ -7,15 +7,15 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-raffidevyt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raffidevyt@gmail.com)](mailto:me@raffidev.site)
 
-- 🔭 I’m currently working on [notfound](https://notfound.com/)
+- 🔭 I’m currently working on [Raznar](https://raznar.id)
 
 - 🌱 I’m currently learning **PHP, Laravel, React**
 
-- 👨‍💻 All of my projects are available at [https://raffiathallah.biz.id](https://raffiathallah.biz.id) / [https://raffidev.site](https://raffidev.site)
+- 👨‍💻 All of my projects are available at [https://raffiathallah.xyz](https://raffiathallah.xyz)
 
 - 💬 Ask me about **Discord.JS**
 
-- 📫 How to reach me **me@raffidev.site**
+- 📫 How to reach me **dev@raffiathallah.xyz**
 
 
 <p align="left"><a href="https://discord.com/users/467586538109272074" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/467586538109272074" alt="RaffiDev" /></a></p>
