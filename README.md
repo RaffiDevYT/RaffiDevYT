@@ -24,7 +24,7 @@ const raffi = {
   name: "Raffi Athallah",
   role: "Full-Stack Developer",
   location: "Indonesia",
-  passions: ["Web Security", "Zero-Knowledge Architecture", "UI/UX Crafting"],
+  passions: ["FullStack Web Developer", "Bot Development"],
   currentProject: "EphemeralDrop (End-to-End Encrypted File Sharing)",
   portfolio: "https://raffiathallah.xyz",
   contact: "dev@raffiathallah.xyz"
