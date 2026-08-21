@@ -17,6 +17,8 @@
 
 <br/>
 
+[![wakatime](https://wakatime.com/badge/user/792d7c50-658e-4655-89e0-107ba562b0d2.svg)](https://wakatime.com/@792d7c50-658e-4655-89e0-107ba562b0d2)
+
 ### 👨‍💻 About Me
 
 ```javascript
