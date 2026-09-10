@@ -39,3 +39,33 @@ const raffi = {
   portfolio: "https://rafiathallah.vercel.app",
   contact: "raffidevyt@gmail.com"
 };
+```
+
+### Skills
+
+<div data-importer="techs" align="center">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60"  />
+</div>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/RaffiDevYT/RaffiDevYT/snake-output/snake.svg" />
