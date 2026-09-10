@@ -17,9 +17,9 @@
     </a>
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=RaffiDevYT&label=Profile%20Views&color=6366f1&style=flat-square" />
-  </p>
+  <!-- <p>
+    <img src="https://komarev.com/ghpvc/?username=RaffiDevYT&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
+  </p> -->
 </div>
 
 ---
@@ -67,6 +67,8 @@ const raffi = {
 </p>
 
 <br/>
+
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/RaffiDevYT/RaffiDevYT/snake-output/snake.svg" alt="Snake contribution animation" />
